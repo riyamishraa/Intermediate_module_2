@@ -1,7 +1,7 @@
 import "./App.css";
 import { ethers } from "ethers";
 import { useEffect, useState, useCallback } from "react";
-import UmarContract from "./contracts/RContract.sol/RContract.json";
+import RContract from "./contracts/RContract.sol/RContract.json";
 
 function App() {
   const [name, setName] = useState("");
