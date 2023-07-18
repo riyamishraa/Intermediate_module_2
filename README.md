@@ -13,7 +13,7 @@ The RContract DApp is built using Hardhat and React. It consists of a smart cont
 To download the project, you can clone the repository using the following command:
 
 ```
-git clone https://github.com/riyamishraa/Intermediate_module_2
+git clone https://github.com/riyamishraa/Intermediate_module_2/tree/main
 ```
 
 After cloning the repository, navigate to the project's root directory.
